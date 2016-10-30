@@ -1,0 +1,5 @@
+{
+    "src": "/用户/cuijiax/public/images/Data",
+    "dest": "qiniu:access_key=<RpD-gJvL65fIBhqMbxPyaCNUGGsAGk1kHg7xRGYs>&secret_key=<gGSZHR_ifBt0hMdyS5aPeubGYHBy5X6jxVf47Q7_>&bucket=<leoahboom>&key_prefix=<fromblog>",
+    "debug_level": 1
+}
