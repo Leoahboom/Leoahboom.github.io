@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://anythingmything.com/"/>
-  <updated>2017-01-04T13:59:19.000Z</updated>
+  <updated>2017-01-21T08:22:10.000Z</updated>
   <id>http://anythingmything.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试试用邮件订阅这个博客吧</title>
+    <link href="http://anythingmything.com/2017/01/21/%E8%AF%95%E8%AF%95%E7%94%A8%E9%82%AE%E4%BB%B6%E8%AE%A2%E9%98%85%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E5%90%A7/"/>
+    <id>http://anythingmything.com/2017/01/21/试试用邮件订阅这个博客吧/</id>
+    <published>2017-01-21T08:11:36.000Z</published>
+    <updated>2017-01-21T08:22:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚刚帮这个博客加了邮件订阅功能，在主页右侧栏下面的subscribe位置点击，在链接后的网页输入邮箱就好，每次更新文章就能收到邮件了，第一次尝试用<a href="https://mailchimp.com/" target="_blank" rel="external">mailchimp</a>，做Email marketing很棒的公司和产品！</p>
+<p><img src="/images/subscribe.jpg" alt=""><br><img src="/images/subscribe2.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;刚刚帮这个博客加了邮件订阅功能，在主页右侧栏下面的subscribe位置点击，在链接后的网页输入邮箱就好，每次更新文章就能收到邮件了，第一次尝试用&lt;a href=&quot;https://mailchimp.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>腾讯产品经理培养之路</title>
